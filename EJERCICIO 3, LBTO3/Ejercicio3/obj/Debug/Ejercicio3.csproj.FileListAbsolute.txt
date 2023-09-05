@@ -1,0 +1,7 @@
+D:\EJERCICIO 3, LBTO3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\EJERCICIO 3, LBTO3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\EJERCICIO 3, LBTO3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\EJERCICIO 3, LBTO3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+D:\EJERCICIO 3, LBTO3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\EJERCICIO 3, LBTO3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\EJERCICIO 3, LBTO3\Ejercicio3\obj\Debug\Ejercicio3.pdb
